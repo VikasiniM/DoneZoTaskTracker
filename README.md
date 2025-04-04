@@ -7,7 +7,7 @@ This is a simple and efficient task management web app designed to help users or
 
 ## **Live Website** 🌍  
 Check out the live version here:  
-🔗 [vikasinim.github.io/DoneZoTaskTracker](#) *(Replace with actual link)*  
+🔗 [vikasinim.github.io/DoneZoTaskTracker](https://vikasinim.github.io/DoneZoTaskTracker)  
 
 ---
 
@@ -54,7 +54,7 @@ I have implemented the following technologies to build this project:
 ## **Footer Design** 🖥️  
 
 The footer remains at the bottom of the page and contains:  
-👤 **Your Name** | 🔗 **[LinkedIn](https://www.linkedin.com/in/vikasinim)**  
+👤 **Vikasini Mohanasundaram** | 🔗 **[LinkedIn](https://www.linkedin.com/in/vikasinim)**  
 
 ---
 
