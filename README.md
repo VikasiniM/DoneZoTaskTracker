@@ -5,12 +5,6 @@ This is a simple and efficient task management web app designed to help users or
 
 ---
 
-## **Live Website** 🌍  
-Check out the live version here:  
-🔗 [vikasinim.github.io/DoneZoTaskTracker](https://vikasinim.github.io/DoneZoTaskTracker)  
-
----
-
 ## **About** ℹ️  
 This project is a **task tracker application** that allows users to:  
 - Add, update, and delete tasks easily.  
@@ -48,6 +42,16 @@ I have implemented the following technologies to build this project:
 4. **Filter tasks** using the "All," "Completed," or "Pending" buttons.  
 5. **Click the task to mark it as completed** or delete it if needed.  
 6. **Use the dark mode toggle** to switch themes.  
+
+---
+
+## **App Screenshots** 🖼️
+
+### 🌞 Light Mode  
+![Light Mode UI](/Light Mode.png)
+
+### 🌙 Dark Mode  
+![Dark Mode UI](/Dark Mode.png)
 
 ---
 
