@@ -48,11 +48,10 @@ I have implemented the following technologies to build this project:
 ## **App Screenshots** 🖼️
 
 ### 🌞 Light Mode  
-![Light Mode UI](public/light-mode.jpg)
+![Light Mode UI](Light%20Mode.jpg)
 
 ### 🌙 Dark Mode  
-![Dark Mode UI](public/dark-mode.jpg)
-
+![Dark Mode UI](Dark%20Mode.jpg)
 
 
 ---
